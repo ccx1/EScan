@@ -15,7 +15,7 @@
 
 在工程的gradle下
 
-        implementation 'com.ccx1:EScan:1.0.1'
+        implementation 'com.ccx1:escan:1.0.1'
 
 在project的gradle中的allprojects中加入
 
