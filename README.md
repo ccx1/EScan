@@ -1,5 +1,7 @@
 ### EScan
 
+#### gif还是用了zxing的gif。因为ui上面没有变化。
+
 <img src="/gif/scan.gif" width="320px" />
 
 将zxing和zbar解析二维码功能进行结合，zbar性能高，但是在扫描的时候是在主线程，导致整体扫描会让动画卡死，zxing本身是处在多线程的所以不会出现此问题
